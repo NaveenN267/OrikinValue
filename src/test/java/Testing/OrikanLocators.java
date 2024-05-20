@@ -2,10 +2,7 @@ package Testing;
 
 import org.openqa.selenium.By;
 
-public class Locators {
-	
-	
-
+public class OrikanLocators {
 
 	    // Login Page Locators
 	    public static final By EMAIL_ADDRESS_INPUT = By.id("emailAddress");
